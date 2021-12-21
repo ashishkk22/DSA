@@ -1,4 +1,3 @@
-//kadane's algo
 #include<iostream>
 using namespace std;
 int maximum_subarray_sum(int *arr,int n){
