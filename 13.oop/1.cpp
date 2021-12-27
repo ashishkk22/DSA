@@ -8,7 +8,13 @@ private:
 	int mrp;
 	int selling_price;
 public:
-		//setters
+	//constructor
+	Product(){
+		cout << "Inside constructor " << endl;
+	}
+	//here we accept any parameter in the constructor 
+	//and that is the parameterised constructor
+	//setters
 	void setMrp(int price){
 			mrp = price;
 	}
