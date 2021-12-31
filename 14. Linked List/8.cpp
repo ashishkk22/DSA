@@ -35,6 +35,9 @@ void print(Node * head){
 	}
 	cout<<"NULL"<<endl;
 }
-int main(){
+Node * reverseList(Node * head ){
 	
+}
+int main(){
+
 }
