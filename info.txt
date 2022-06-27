@@ -1,0 +1,3 @@
+class member is private by default
+and 
+struct members are public by befault
